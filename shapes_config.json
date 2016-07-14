@@ -1,0 +1,54 @@
+{
+    "path": "shapes/",
+    "videos": [{
+        "filename": "rave-circle.mp4",
+        "duration": 276.48,
+        "volumeInfo": {
+            "mean": -22.6,
+            "max": -3.8
+        },
+        "tags": []
+    }, {
+        "filename": "rave-square.mp4",
+        "duration": 276.48,
+        "volumeInfo": {
+            "mean": -22.6,
+            "max": -3.8
+        },
+        "tags": []
+    }, {
+        "filename": "rave-triangle.mp4",
+        "duration": 276.48,
+        "volumeInfo": {
+            "mean": -22.6,
+            "max": -3.8
+        },
+        "tags": []
+    }, {
+        "filename": "rave-revcircle.mp4",
+        "duration": 276.48,
+        "volumeInfo": {
+            "mean": -22.6,
+            "max": -3.8
+        },
+        "tags": []
+    }, {
+        "filename": "rave-revsquare.mp4",
+        "duration": 276.48,
+        "volumeInfo": {
+            "mean": -22.6,
+            "max": -3.8
+        },
+        "tags": []
+    }, {
+        "filename": "rave-revtriangle.mp4",
+        "duration": 276.48,
+        "volumeInfo": {
+            "mean": -22.6,
+            "max": -3.8
+        },
+        "tags": []
+    }],
+    "audio": [],
+    "frames": []
+}
